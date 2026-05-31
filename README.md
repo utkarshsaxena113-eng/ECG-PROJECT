@@ -20,8 +20,7 @@ Motivation
 Heart sound signals are often affected by 50 Hz power-line interference, making diagnosis difficult. This project aims to provide a low-cost IoT-based solution for signal conditioning and wireless monitoring of cardiac signals.
 
 2. Technical Architecture
-3. 
-System Architecture
+3. System Architecture
 
 <img width="553" height="2041" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/05fa431b-5941-406b-9fd0-4923c3df4994" />
 
